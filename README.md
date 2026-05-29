@@ -39,7 +39,7 @@ The project provides insights into:
 | Tool        | Purpose                      |
 | ----------- | ---------------------------- |
 | Power BI    | Dashboard Development        |
-| Excel       | Dataset Storage              |
+| Excel(CSV)       | Dataset Storage              |
 | Power Query | Data Cleaning                |
 | DAX         | Data Modeling & Calculations |
 
@@ -51,7 +51,7 @@ The project provides insights into:
 Netflix Dashboard/
 │
 ├── Netflix Dashboard.pbix
-├── netflix_titles.xlsx
+├── netflix_titles.csv
 ├── Dashboard Preview.png
 └── README.md
 ```
