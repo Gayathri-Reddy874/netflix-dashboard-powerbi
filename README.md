@@ -39,7 +39,7 @@ The project provides insights into:
 | Tool        | Purpose                      |
 | ----------- | ---------------------------- |
 | Power BI    | Dashboard Development        |
-| Excel(CSV)       | Dataset Storage              |
+| Excel (CSV)       | Dataset Storage              |
 | Power Query | Data Cleaning                |
 | DAX         | Data Modeling & Calculations |
 
