@@ -22,15 +22,15 @@ The project provides insights into:
 
 # 🚀 Features
 
-✅ Interactive Power BI Dashboard
-✅ Netflix-Inspired Dark Theme UI
-✅ KPI Summary Cards
-✅ Genre Analysis
-✅ Ratings Distribution
-✅ Country-wise Visualization
-✅ Release Year Trend Analysis
-✅ Movies vs TV Shows Comparison
-✅ Dynamic & Business-Oriented Insights
+* ✅ Interactive Power BI Dashboard
+* ✅ Netflix-Inspired Dark Theme UI
+* ✅ KPI Summary Cards
+* ✅ Genre Analysis
+* ✅ Ratings Distribution
+* ✅ Country-wise Visualization
+* ✅ Release Year Trend Analysis
+* ✅ Movies vs TV Shows Comparison
+* ✅ Dynamic & Business-Oriented Insights
 
 ---
 
